@@ -1,0 +1,55 @@
+[33mcommit e1526495e822395824e37787088e9d7adf2d26cb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 8d3d397 9fe4c8a
+Author: SnackDealer713 <16107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 16:18:47 2025 -0400
+
+    Edit README.md and hello-World.txt
+
+[33mcommit 8d3d3973a7709752afda0ec505db5ee90ddf690f[m
+Merge: 7c87c2f 606410a
+Author: SnackDealer713 <16107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 16:09:50 2025 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 9fe4c8a53f5ea5f9fb68cfd79101788246afec63[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SnackDealer713 <216107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 16:06:34 2025 -0400
+
+    Create hello_world.txt
+
+[33mcommit c7a6be123278dc5b2d2dc2f6c541e3b8747d1a85[m
+Author: SnackDealer713 <216107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 16:01:07 2025 -0400
+
+    Update README.md
+
+[33mcommit 606410a21e3d9977e5ef1bcc0fafe47536a15b41[m
+Author: SnackDealer713 <216107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 15:50:53 2025 -0400
+
+    Update README.md
+
+[33mcommit 8fd2be7914ddebee3317647c5097648f1c373148[m
+Author: SnackDealer713 <216107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 15:49:29 2025 -0400
+
+    Delete hello_world.txt
+
+[33mcommit 7c87c2fbae62cc0f6131a8f8acd0904d6d1fcf25[m
+Author: SnackDealer713 <16107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 15:47:18 2025 -0400
+
+    Add hello_world.txt
+
+[33mcommit 9d67950208dbea1e27e05f8055275f9f36a363ae[m
+Author: SnackDealer713 <216107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 15:39:02 2025 -0400
+
+    Create hello_world.txt
+
+[33mcommit 20629d86e07987a27569191d709db932fa9f15a1[m
+Author: SnackDealer713 <216107368+SnackDealer713@users.noreply.github.com>
+Date:   Fri Jul 18 15:16:34 2025 -0400
+
+    Initial commit
